@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="365" viewBox="0 0 720 365" role="img">
+<rect width="720" height="365" fill="white"/>
+<text x="360" y="28" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#152632">Greedy cardinality shortfall by edge count</text>
+<text x="360" y="51" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">Isolated 3 × 3 solver cases</text>
+<path d="M66 305 H700" stroke="#d2dce2"/>
+<text x="40" y="309" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">0%</text>
+<path d="M66 249 H700" stroke="#d2dce2"/>
+<text x="40" y="253" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">10%</text>
+<path d="M66 193 H700" stroke="#d2dce2"/>
+<text x="40" y="197" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">20%</text>
+<path d="M66 137 H700" stroke="#d2dce2"/>
+<text x="40" y="141" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">30%</text>
+<path d="M66 81 H700" stroke="#d2dce2"/>
+<text x="40" y="85" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">40%</text>
+<text x="97.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">0 (1)</text>
+<rect x="81.75" y="305" width="29.5" height="0" fill="#1a708b"/>
+<text x="160.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">1 (9)</text>
+<rect x="144.75" y="305" width="29.5" height="0" fill="#1a708b"/>
+<text x="223.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">2 (36)</text>
+<rect x="207.75" y="305" width="29.5" height="0" fill="#1a708b"/>
+<text x="286.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">3 (84)</text>
+<rect x="270.75" y="245" width="29.5" height="60" fill="#1a708b"/>
+<text x="285.5" y="239.0" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">10.7</text>
+<text x="349.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">4 (126)</text>
+<rect x="333.75" y="238.333" width="29.5" height="66.6667" fill="#1a708b"/>
+<text x="348.5" y="232.33333333333331" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">11.9</text>
+<text x="412.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">5 (126)</text>
+<rect x="396.75" y="162.778" width="29.5" height="142.222" fill="#1a708b"/>
+<text x="411.5" y="156.77777777777777" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">25.4</text>
+<text x="475.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">6 (84)</text>
+<rect x="459.75" y="111.667" width="29.5" height="193.333" fill="#1a708b"/>
+<text x="474.5" y="105.66666666666666" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">34.5</text>
+<text x="538.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">7 (36)</text>
+<rect x="522.75" y="165" width="29.5" height="140" fill="#1a708b"/>
+<text x="537.5" y="159.0" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">25.0</text>
+<text x="601.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">8 (9)</text>
+<rect x="585.75" y="242.778" width="29.5" height="62.2222" fill="#1a708b"/>
+<text x="600.5" y="236.77777777777777" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">11.1</text>
+<text x="664.5" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#152632">9 (1)</text>
+<rect x="648.75" y="305" width="29.5" height="0" fill="#1a708b"/>
+<text x="382" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#152632">Admissible edges (number of cases in parentheses)</text>
+</svg>

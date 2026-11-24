@@ -1,0 +1,11 @@
+# Matching and allocation
+
+AllocateAI scores verified open listings using the applicant's accepted canonical skills. Required skills use weight 2, preferred skills use weight 1 and a mere mention carries no weight. Duplicate mappings contribute at most the strongest observed classification. Where no requirements are mapped, skill coverage is unknown. If part of the posted requirement list is unresolved, the score is labeled partial and the unresolved terms are shown.
+
+Fit weights are technical skills 50, location 20, work mode 15 and sector 15. Only known components enter the weighted average. The evidence coverage is the sum of available component weights divided by 100. Listings with at least 50% coverage sort ahead of lower-coverage entries. If no component is known, fit is unknown. A skill missing from the profile is a gap for discovery and does not establish the applicant lacks it.
+
+Listing state and eligibility are separate from fit. Applicants can use a manual profile with self-reported skills. Allocation edges require evidence accepted by the applicable deterministic checks, including reviewer confirmation for mandatory claims. Confirmed rule coverage is required for PASS. A contradicted mandatory check yields FAIL, and unresolved or missing evidence yields REVIEW. Recommendations may display an open role requiring review with a reason. Only PASS can contribute an allocation edge.
+
+An authorized round declares its role scope. A positive count must be attested for that role and round by a verified organization or placement actor. Applicants need an explicit participation grant and submit their own ranked lists. The engine maximizes the count with CP-SAT, fixes it at the certified optimum and then maximizes rank utility L+1-rank, with L=5. The final seeded tie pass fixes both objectives. A time-limited solution without certificates cannot be published. Displayed fit scores do not enter the objective.
+
+The verifier reconstructs eligibility and feasible edges from the frozen snapshot, checks uniqueness, capacities, submitted rank and utility, and compares exact solver status and bounds with the proposed rows. Current pinned records and draft hashes must still agree when an administrator approves and publishes. See [research alignment](RESEARCH_ALIGNMENT.md) for scope and [test results](TEST_RESULTS.md) for verification.

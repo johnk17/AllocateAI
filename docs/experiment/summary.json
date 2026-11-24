@@ -1,0 +1,17 @@
+{
+  "data": "isolated abstract graph patterns",
+  "python": "3.14.5",
+  "ortools": "9.15.6755",
+  "summary": {
+    "patterns": 512,
+    "oracle_agreement": 512,
+    "feasible": 512,
+    "greedy_count_loss": 95,
+    "greedy_utility_loss": 14,
+    "ties": 403,
+    "cp_sat_assignments": 1236,
+    "greedy_assignments": 1141,
+    "cp_sat_full": 247,
+    "greedy_full": 168
+  }
+}

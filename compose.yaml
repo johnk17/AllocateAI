@@ -1,0 +1,54 @@
+name: allocateai
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: allocateai
+      POSTGRES_USER: allocate
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-local-only-change-me}
+    ports: ["127.0.0.1:${POSTGRES_PORT:-55432}:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U allocate -d allocateai"]
+      interval: 3s
+      timeout: 3s
+      retries: 30
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql+psycopg://allocate:${POSTGRES_PASSWORD:-local-only-change-me}@db:5432/allocateai
+      CHECKPOINT_URL: postgresql://allocate:${POSTGRES_PASSWORD:-local-only-change-me}@db:5432/allocateai
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-admin@allocate.local}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      PUBLIC_INTERNSHIP_SYNC_ENABLED: ${PUBLIC_INTERNSHIP_SYNC_ENABLED:-${LEVER_SYNC_ENABLED:-1}}
+      LLM_MODE: ${LLM_MODE:-fixture}
+      LLM_BASE_URL: ${LLM_BASE_URL:-http://host.docker.internal:11434/v1}
+      LLM_MODEL: ${LLM_MODEL:-}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      MCP_POLICY_TOKEN: ${MCP_POLICY_TOKEN:-}
+      MCP_POLICY_IDS: ${MCP_POLICY_IDS:-}
+      EMBEDDING_MODE: ${EMBEDDING_MODE:-sentence_transformers}
+      ALLOW_MODEL_DOWNLOAD: ${ALLOW_MODEL_DOWNLOAD:-1}
+      HF_HOME: /models
+      UPLOAD_DIR: /private/uploads
+      LANGSMITH_TRACING: "false"
+      ANONYMIZED_TELEMETRY: "false"
+    ports: ["127.0.0.1:${API_PORT:-8800}:8000"]
+    volumes: ["uploads:/private/uploads", "models:/models"]
+    depends_on:
+      db: {condition: service_healthy}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+  frontend:
+    build: ./frontend
+    environment: {API_INTERNAL_URL: "http://api:8000", NEXT_TELEMETRY_DISABLED: "1"}
+    ports: ["127.0.0.1:3000:3000"]
+    depends_on:
+      api: {condition: service_healthy}
+volumes:
+  pgdata:
+  uploads:
+  models:

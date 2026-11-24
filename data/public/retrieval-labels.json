@@ -1,0 +1,150 @@
+[
+  {
+    "id": "duration",
+    "question": "How many months do internships last?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      2
+    ],
+    "supporting_passage_ids": [
+      2
+    ]
+  },
+  {
+    "id": "stipend",
+    "question": "What monthly stipend is provided to interns?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      4
+    ],
+    "supporting_passage_ids": [
+      4
+    ]
+  },
+  {
+    "id": "grant",
+    "question": "What is the one-time grant for incidentals?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      4
+    ],
+    "supporting_passage_ids": [
+      4
+    ]
+  },
+  {
+    "id": "training",
+    "question": "Who bears the training costs of interns?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      4
+    ],
+    "supporting_passage_ids": [
+      4
+    ]
+  },
+  {
+    "id": "insurance",
+    "question": "Which insurance schemes cover interns?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      4
+    ],
+    "supporting_passage_ids": [
+      4
+    ]
+  },
+  {
+    "id": "age",
+    "question": "What age group is eligible for the pilot?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      2,
+      3
+    ],
+    "supporting_passage_ids": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "online",
+    "question": "Can online or distance learning students apply?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      3
+    ],
+    "supporting_passage_ids": [
+      3
+    ]
+  },
+  {
+    "id": "education",
+    "question": "What educational qualifications are listed?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      3
+    ],
+    "supporting_passage_ids": [
+      3
+    ]
+  },
+  {
+    "id": "iis",
+    "question": "Which Industry 4.0 areas does IIS train workers in?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      5
+    ],
+    "supporting_passage_ids": [
+      5
+    ]
+  },
+  {
+    "id": "swiggy",
+    "question": "What is the Swiggy Skills initiative?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      6
+    ],
+    "supporting_passage_ids": [
+      6
+    ]
+  },
+  {
+    "id": "sankalp",
+    "question": "How does SANKALP support marginalized communities?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      6
+    ],
+    "supporting_passage_ids": [
+      6
+    ]
+  },
+  {
+    "id": "digital",
+    "question": "What is Skill India Digital used for?",
+    "policy_id": 1,
+    "relevant_passage_ids": [
+      7
+    ],
+    "supporting_passage_ids": [
+      7
+    ]
+  },
+  {
+    "id": "no-quota",
+    "question": "What is the guaranteed official SC reservation percentage?",
+    "policy_id": 1,
+    "relevant_passage_ids": [],
+    "supporting_passage_ids": []
+  },
+  {
+    "id": "no-offer",
+    "question": "Which employer guarantees me a confirmed job offer tomorrow?",
+    "policy_id": 1,
+    "relevant_passage_ids": [],
+    "supporting_passage_ids": []
+  }
+]

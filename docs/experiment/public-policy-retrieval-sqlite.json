@@ -1,0 +1,367 @@
+{
+  "question_count": 14,
+  "methods": {
+    "keyword": {
+      "status": "completed",
+      "recall_at_5": 1.0,
+      "questions": [
+        {
+          "question_id": "duration",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "stipend",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "grant",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "training",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "insurance",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "age",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "online",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "education",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "iis",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "swiggy",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "sankalp",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "digital",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "no-quota",
+          "recall_at_5": null,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": true,
+          "vector_available": false
+        },
+        {
+          "question_id": "no-offer",
+          "recall_at_5": null,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": true,
+          "vector_available": false
+        }
+      ]
+    },
+    "vector": {
+      "status": "not_run_vector_unavailable",
+      "recall_at_5": null,
+      "questions": [
+        {
+          "question_id": "duration",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "stipend",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "grant",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "training",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "insurance",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "age",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "online",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "education",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "iis",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "swiggy",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "sankalp",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "digital",
+          "recall_at_5": 0.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "no-quota",
+          "recall_at_5": null,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": true,
+          "vector_available": false
+        },
+        {
+          "question_id": "no-offer",
+          "recall_at_5": null,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": true,
+          "vector_available": false
+        }
+      ]
+    },
+    "hybrid": {
+      "status": "not_run_vector_unavailable",
+      "recall_at_5": null,
+      "questions": [
+        {
+          "question_id": "duration",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "stipend",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "grant",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "training",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "insurance",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "age",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "online",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "education",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "iis",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "swiggy",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "sankalp",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "digital",
+          "recall_at_5": 1.0,
+          "citation_supported_by_labels": true,
+          "abstained": false,
+          "correct_abstention": null,
+          "vector_available": false
+        },
+        {
+          "question_id": "no-quota",
+          "recall_at_5": null,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": true,
+          "vector_available": false
+        },
+        {
+          "question_id": "no-offer",
+          "recall_at_5": null,
+          "citation_supported_by_labels": null,
+          "abstained": true,
+          "correct_abstention": true,
+          "vector_available": false
+        }
+      ]
+    }
+  },
+  "note": "Same labeled questions, policy-version filter and top five cutoff. No-answer questions are excluded from mean Recall@5 and evaluated for abstention.",
+  "corpus": {
+    "title": "Skilling India: Empowering the Workforce (PIB, 11 October 2024)",
+    "version": "PIB publication 2024-10-11; historical reference",
+    "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/oct/doc20241011415001.pdf",
+    "passages": 10,
+    "label_method": "Author-inspected exact source markers; 12 answerable and 2 no-answer questions; small historical corpus, not a generalization benchmark"
+  }
+}

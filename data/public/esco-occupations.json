@@ -1,0 +1,1838 @@
+{
+  "source": "ESCO occupations",
+  "requested_version": "v1.2.0",
+  "retrieved_at": "2026-11-17",
+  "records": [
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+      "preferredLabel": "software developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+        "searchHit": "software developer",
+        "title": "software developer",
+        "preferredLabel": {
+          "de": "Softwareentwickler/Softwareentwicklerin",
+          "no": "programvareutvikler",
+          "fi": "ohjelmistokehittäjä",
+          "pt": "Programador de software/Programadora de software",
+          "bg": "разработчик на софтуер",
+          "lt": "programinės įrangos kūrėjas",
+          "hr": "razvojni programer softvera / razvojna programerka softvera",
+          "lv": "programmatūras izstrādātājs",
+          "fr": "développeur de logiciels/développeuse de logiciels",
+          "hu": "szoftverfejlesztő",
+          "uk": "розробник програмного забезпечення/розробниця програмного забезпечення",
+          "sk": "softvérový vývojár/softvérová vývojárka",
+          "sl": "razvijalec/razvijalka programske opreme",
+          "ga": "forbróir bogearraí",
+          "sv": "programvaruutvecklare",
+          "el": "μηχανικός ανάπτυξης λογισμικού",
+          "mt": "żviluppatur tas-softwer",
+          "en": "software developer",
+          "is": "hugbúnaðarsérfræðingur",
+          "it": "sviluppatore di software/sviluppatrice di software",
+          "es": "desarrollador de software/desarrolladora de software",
+          "et": "tarkvaraarendaja",
+          "cs": "softwarový vývojář/softwarová vývojářka",
+          "ar": "مطور برمجيات / مطورة برمجيات",
+          "pl": "twórca oprogramowania",
+          "da": "softwareudvikler",
+          "ro": "dezvoltator de software",
+          "nl": "software ontwikkelaar"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2512.4",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2512"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+            "title": "software developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+      "preferredLabel": "embedded systems software developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+        "searchHit": "embedded systems software developers",
+        "title": "embedded systems software developer",
+        "preferredLabel": {
+          "de": "Softwareentwickler für Embedded Systems/Softwareentwicklerin für Embedded Systems",
+          "no": "programvareutvikler, innebygde systemer",
+          "fi": "sulautettujen järjestelmien ohjelmistokehittäjä",
+          "pt": "Programador de software de sistemas incorporados/Programadora de software de sistemas incorporados",
+          "bg": "разработчик на софтуер за вградени системи",
+          "lt": "įterptųjų sistemų programinės įrangos kūrėjas",
+          "hr": "razvojni programer / razvojna programerka softvera za ugrađene sustave",
+          "lv": "iegulto sistēmu programmatūras izstrādātājs",
+          "fr": "développeur de logiciels pour systèmes informatiques intégrés/développeuse de logiciels pour systèmes informatiques intégrés",
+          "hu": "beágyazott szoftver fejlesztő mérnök",
+          "uk": "розробник програмного забезпечення для вбудованих систем/розробниця програмного забезпечення для вбудованих систем",
+          "sk": "vývojár/vývojárka softvéru vstavaných systémov",
+          "sl": "razvijalec /razvijalka programske opreme za vgrajene sisteme",
+          "ga": "forbróir bogearraí do chórais leabaithe",
+          "sv": "programutvecklare för inbäddade system",
+          "el": "μηχανικός ανάπτυξης λογισμικού ενσωματωμένων συστημάτων",
+          "mt": "żviluppatur tas-softwer għal sistemi integrati",
+          "en": "embedded systems software developer",
+          "is": "hugbúnaðarhönnuður á sviði ívafinna kerfa",
+          "it": "sviluppatore di software per sistemi integrati",
+          "es": "desarrollador de software para sistemas empotrados/desarrolladora de software para sistemas empotrados",
+          "et": "manussüsteemide tarkvara arendaja",
+          "cs": "vývojář softwaru vestavěných systémů/vývojářka softwaru vestavěných systémů",
+          "ar": "مطور برمجيات النظم المندمجة / مطورة برمجيات النظم المندمجة",
+          "pl": "twórca oprogramowania systemów wbudowanych",
+          "da": "udvikler af integrerede softwaresystemer",
+          "ro": "dezvoltator de software pentru sisteme înglobate/dezvoltatoare de software pentru sisteme înglobate",
+          "nl": "embedded systems software developer"
+        },
+        "code": "2514.2.1",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+            "title": "embedded systems software developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+      "preferredLabel": "industrial mobile devices software developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+        "searchHit": "handheld software developer",
+        "title": "industrial mobile devices software developer",
+        "preferredLabel": {
+          "de": "Softwareentwickler Industrielle Mobilgeräte/Softwareentwicklerin Industrielle Mobilgeräte",
+          "no": "utvikler av programvare for mobile enheter",
+          "fi": "ohjelmistokehittäjä, teolliset mobiililaitteet",
+          "pt": "Especialista em desenvolvimento de dispositivos móveis para a indústria",
+          "bg": "разработчик, софтуер за индустриални мобилни устройства",
+          "lt": "pramonės mobiliųjų įrenginių programinės įrangos plėtros specialistas",
+          "hr": "programer/programerka softvera za industrijske mobilne uređaje",
+          "lv": "rūpniecisko mobilo ierīču programmatūras izstrādātājs",
+          "fr": "développeur de logiciels pour appareils mobiles destinés à l’industrie/développeuse de logiciels pour appareils mobiles destinés à l’industrie",
+          "hu": "ipari mobilkészülékek szoftvereinek fejlesztője",
+          "uk": "розробник програмного забезпечення для промислових мобільних пристроїв/розробниця програмного забезпечення для промислових мобільних пристроїв",
+          "sk": "vývojár/vývojárka softvéru pre priemyselné mobilné zariadenia",
+          "sl": "razvijalec/razvijalka programske opreme za industrijske mobilne naprave",
+          "ga": "forbróir bogearraí do ghléasanna móibíleacha tionsclaíocha",
+          "sv": "programvaruutvecklare för industriella mobila enheter",
+          "el": "ειδικός ανάπτυξης λογισμικού για κινητές συσκευές που προορίζονται για τη βιομηχανία/ειδική ανάπτυξης λογισμικού για κινητές συσκευές που προορίζονται για τη βιομηχανία",
+          "mt": "żviluppatur tas-softwer tal-apparati mobbli industrijali/żviluppatriċi tas-softwer tal-apparati mobbli industrijali",
+          "en": "industrial mobile devices software developer",
+          "is": "forritari handfrjálsra lausna",
+          "it": "sviluppatore di software per dispositivi mobili industriali/sviluppatrice di software per dispositivi mobili industriali",
+          "es": "desarrollador de software para dispositivos móviles industriales/desarrolladora de software para dispositivos móviles industriales",
+          "et": "tööstuslike käsiseadmete tarkvara arendaja",
+          "cs": "vývojář softwaru pro průmyslová mobilní zařízení/vývojářka softwaru pro průmyslová mobilní zařízení",
+          "ar": "مطور برمجيات الأجهزة الصناعية المحمولة / مطورة برمجيات الأجهزة الصناعية المحمولة",
+          "pl": "programista przemysłowych aplikacji mobilnych",
+          "da": "softwareudvikler inden for mobilt udstyr",
+          "ro": "dezvoltator software pentru dispozitive portabile cu utilizări industriale",
+          "nl": "ontwikkelaar software voor mobiele toestellen voor industrieel gebruik"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2514.3",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2514"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+            "title": "industrial mobile devices software developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7",
+      "preferredLabel": "ICT application developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7",
+        "searchHit": "application software developers",
+        "title": "ICT application developer",
+        "preferredLabel": {
+          "de": "IT-Anwendungsentwickler/IT-Anwendungsentwicklerin",
+          "no": "IKT-programutvikler",
+          "fi": "ICT-ohjelmistokehittäjä",
+          "pt": "Programador de aplicações informáticas/Programadora de aplicações informáticas",
+          "bg": "разработчик на софтуерни ИКТ приложения",
+          "lt": "informacinių ir ryšių technologijų taikomosios programinės įrangos kūrėjas",
+          "hr": "programer/programerka primjene IKT-a",
+          "lv": "IKT lietotņu izstrādātājs",
+          "fr": "concepteur de logiciels d’application/conceptrice de logiciels d’application",
+          "hu": "IKT alkalmazásfejlesztő",
+          "uk": "розробник ІКТ-додатків/розробниця ІКТ-додатків",
+          "sk": "vývojár/vývojárka softvéru do aplikácií IKT",
+          "sl": "razvijalec/razvijalka aplikacij IKT",
+          "ga": "forbróir feidhmchlár TFC",
+          "sv": "IKT-programutvecklare",
+          "el": "ειδικός ανάπτυξης εφαρμογών λογισμικού ΤΠΕ",
+          "mt": "żviluppatur tal-applikazzjonijiet tal-ICT",
+          "en": "ICT application developer",
+          "is": "hugbúnaðarhönnuður",
+          "it": "sviluppatore di applicazioni informatiche/sviluppatrice di applicazioni informatiche",
+          "es": "desarrollador de aplicaciones de TIC/desarrolladora de aplicaciones de TIC",
+          "et": "IKT rakendustarkvara arendaja",
+          "cs": "vývojář aplikací ICT/vývojářka aplikací ICT",
+          "ar": "مطور تطبيقات تكنولوجيا المعلومات والاتصالات / مطورة تطبيقات تكنولوجيا المعلومات والاتصالات",
+          "pl": "twórca oprogramowania komputerowego technologii informacyjno-telekomunikacyjnych",
+          "da": "softwareudvikler af IKT-applikationer",
+          "ro": "dezvoltator de aplicații în domeniul TIC",
+          "nl": "ict application developer"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2514.2",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2514"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7",
+            "title": "ICT application developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/6ce5f7e3-a534-4aa2-ab23-255408ddb53a",
+      "preferredLabel": "IoT developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/6ce5f7e3-a534-4aa2-ab23-255408ddb53a",
+        "searchHit": "IoT software developer",
+        "title": "IoT developer",
+        "preferredLabel": {
+          "de": "IoT-Entwickler/IoT-Entwicklerin",
+          "no": "IoT-utvikler",
+          "fi": "IoT-kehittäjä",
+          "pt": "programador de Internet das Coisas/programadora de Internet das Coisas",
+          "bg": "Разработчик на интернет на нещата",
+          "lt": "daiktų interneto kūrėjas",
+          "hr": "razvojni inženjer/inženjerka interneta stvari",
+          "lv": "lietu interneta izstrādātājs",
+          "fr": "développeur IoT/développeuse IoT",
+          "hu": "a dolgok internetének fejlesztője",
+          "uk": "розробник інтернету речей/розробниця інтернету речей",
+          "sk": "vývojár internetu vecí/vývojárka internetu vecí",
+          "sl": "razvijalec/razvijalka interneta stvari",
+          "ga": "forbróir Idirlíon na Rudaí Nithiúla (IoT)",
+          "sv": "IoT-utvecklare",
+          "el": "προγραμματιστής του διαδικτύου των πραγμάτων/προγραμματίστρια του διαδικτύου των πραγμάτων",
+          "mt": "żviluppatur tal-IoT/żviluppatriċi tal-IoT",
+          "en": "IoT developer",
+          "is": "hlutanetshönnuður",
+          "it": "sviluppatore IoT/sviluppatrice IoT",
+          "es": "desarrollador de IdC/desarrolladora de IdC",
+          "et": "esemevõrgu arendaja",
+          "cs": "vývojář internetu věcí/vývojářka internetu věcí",
+          "ar": "مُبرمج إنترنت الأشياء",
+          "pl": "projektant internetu rzeczy",
+          "da": "IoT-udvikler",
+          "ro": "dezvoltator IoT/dezvoltatoare IoT",
+          "nl": "IoT-ontwikkelaar"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2512.9",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2512"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6ce5f7e3-a534-4aa2-ab23-255408ddb53a&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/6ce5f7e3-a534-4aa2-ab23-255408ddb53a",
+            "title": "IoT developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+      "preferredLabel": "ICT system developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+        "searchHit": "system software developer",
+        "title": "ICT system developer",
+        "preferredLabel": {
+          "de": "IT-Systementwickler/IT-Systementwicklerin",
+          "no": "IKT-systemutvikler",
+          "fi": "ICT-järjestelmäkehittäjä",
+          "pt": "Programador de sistemas informáticos/Programadora de sistemas informáticos",
+          "bg": "разработчик на ИКТ системи",
+          "lt": "informacinių ir ryšių technologijų sistemų kūrėjas",
+          "hr": "Razvojni programer / razvojna programerka IKT sustava",
+          "lv": "IKT sistēmu izstrādātājs",
+          "fr": "développeur de systèmes informatiques/développeuse de systèmes informatiques",
+          "hu": "IKT rendszerfejlesztő",
+          "uk": "розробник систем ІКТ/розробниця систем ІКТ",
+          "sk": "vývojár/vývojárka systémov IT",
+          "sl": "razvijalec /razvijalka sistemov IKT",
+          "ga": "forbróir córas TFC",
+          "sv": "IKT-systemutvecklare",
+          "el": "υπεύθυνος ανάπτυξης συστημάτων ΤΠΕ/υπεύθυνη ανάπτυξης συστημάτων ΤΠΕ",
+          "mt": "żviluppatur tas-sistema tal-ICT",
+          "en": "ICT system developer",
+          "is": "hönnuður tölvukerfis á sviði upplýsinga- og fjarskiptatækni",
+          "it": "sviluppatore di sistemi TIC/sviluppatrice di sistemi TIC",
+          "es": "desarrollador de sistemas de TIC/desarrolladora de sistemas de TIC",
+          "et": "IKT-süsteemide arendaja",
+          "cs": "vývojář systémů ICT/vývojářka systémů ICT",
+          "ar": "مطور تكنولوجيا المعلومات والاتصالات / مطورة تكنولوجيا المعلومات والاتصالات",
+          "pl": "twórca systemów informacyjno-telekomunikacyjnych",
+          "da": "udvikler af IKT-systemer",
+          "ro": "dezvoltator de sisteme în domeniul TIC/dezvoltatoare de sisteme în domeniul TIC",
+          "nl": "systeemontwikkelaar"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2511.15",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2511"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+            "title": "ICT system developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1",
+      "preferredLabel": "embedded system designer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1",
+        "searchHit": "embedded software developer",
+        "title": "embedded system designer",
+        "preferredLabel": {
+          "de": "Embedded System Designer/Embedded System Designerin",
+          "no": "utvikler av innebygd systemer",
+          "fi": "sulautettujen järjestelmien suunnittelija",
+          "pt": "Designer de sistemas incorporados",
+          "bg": "дизайнер на вградени системи/дизайнерка на вградени системи",
+          "lt": "įterptųjų sistemų projektuotojas",
+          "hr": "projektant/projektantica ugrađenih sustava",
+          "lv": "iegulto sistēmu projektētājs",
+          "fr": "concepteur de systèmes informatiques intégrés/conceptrice de systèmes informatiques intégrés",
+          "hu": "beágyazott rendszer tervező",
+          "uk": "проєктувальник вбудованих систем/проєктувальниця вбудованих систем",
+          "sk": "dizajnér/dizajnérka vstavaných systémov",
+          "sl": "oblikovalec /oblikovalka vgrajenih sistemov",
+          "ga": "dearthóir córas leabaithe",
+          "sv": "designer av inbäddade system",
+          "el": "μηχανικός ενσωματωμένων συστημάτων",
+          "mt": "disinjatur ta' sistemi inkorporati/ disinjatriċi ta' sistemi inkorporati",
+          "en": "embedded system designer",
+          "is": "sérfræðingur í samþættingu tölvukerfa",
+          "it": "progettista di sistemi integrati",
+          "es": "diseñador de sistemas empotrados/diseñadora de sistemas empotrados",
+          "et": "manussüsteemide projekteerija",
+          "cs": "designér vestavěných systémů/designérka vestavěných systémů",
+          "ar": "مصمم النظم المدمجة / مصممة النظم المدمجة",
+          "pl": "projektant systemów wbudowanych",
+          "da": "udvikler af integrerede systemer",
+          "ro": "proiectant de sisteme înglobate",
+          "nl": "embedded systems designer"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2511.5",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2511"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1",
+            "title": "embedded system designer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/24161923-e3e6-4096-b377-f1ee8a7ea31b",
+      "preferredLabel": "satellite engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/24161923-e3e6-4096-b377-f1ee8a7ea31b",
+        "searchHit": "satellite software developer",
+        "title": "satellite engineer",
+        "preferredLabel": {
+          "de": "Ingenieur Satellitentechnik/Ingenieurin Satellitentechnik",
+          "no": "satellittekniker",
+          "fi": "insinööri, satelliittijärjestelmät",
+          "pt": "Engenheiro de sistemas de navegação por satélite/Engenheira de sistemas de navegação por satélite",
+          "bg": "инженер, сателитна техника и апаратура",
+          "lt": "palydovų inžinierius",
+          "hr": "inženjer/inženjerka satelitskih sustava",
+          "lv": "satelītsistēmu inženieris",
+          "fr": "ingénieur des satellites/ingénieure des satellites",
+          "hu": "műholdmérnök",
+          "uk": "інженер з супутникового обладнання/інженерка з супутникового обладнання",
+          "sk": "špecialista/špecialistka na satelitné technológie",
+          "sl": "inženir/inženirka za satelite",
+          "ga": "innealtóir satailítí",
+          "sv": "ingenjör, satellitteknik",
+          "el": "μηχανικός δορυφορικών επικοινωνιών και ηλεκτρονικών",
+          "mt": "inġinier tas-satelliti",
+          "en": "satellite engineer",
+          "is": "gervihnattaverkfræðingur",
+          "it": "ingegnere satellitare",
+          "es": "ingeniero de satélites/ingeniera de satélites",
+          "et": "satelliitside insener",
+          "cs": "satelitní inženýr/satelitní inženýrka",
+          "ar": "مهندس الأقمار الصناعية / مهندسة الأقمار الصناعية",
+          "pl": "inżynier technologii satelitarnych",
+          "da": "satellittekniker",
+          "ro": "inginer comunicații prin satelit/ingineră comunicații prin satelit",
+          "nl": "satellietingenieur"
+        },
+        "code": "2152.1.14",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/4d34a9ee-2653-4da0-bef7-f59294577224"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/24161923-e3e6-4096-b377-f1ee8a7ea31b&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/24161923-e3e6-4096-b377-f1ee8a7ea31b",
+            "title": "satellite engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/781a6350-e686-45b9-b075-e4c8d5a05ff7",
+      "preferredLabel": "cloud software developer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/781a6350-e686-45b9-b075-e4c8d5a05ff7",
+        "searchHit": "cloud software developer",
+        "title": "cloud software developer",
+        "preferredLabel": {
+          "de": "Cloud-Softwareentwickler/Cloud-Softwareentwicklerin",
+          "no": "utvikler av skyprogramvare",
+          "fi": "pilviohjelmistokehittäjä",
+          "pt": "programador de software na nuvem/programadora de software na nuvem",
+          "bg": "разработчик на софтуер в облак",
+          "lt": "debesijos programinės įrangos kūrėjas",
+          "hr": "programer/programerka softvera u oblaku",
+          "lv": "mākoņprogrammatūras izstrādātājs",
+          "fr": "développeur de logiciels en nuage/développeuse de logiciels en nuage",
+          "hu": "felhőalapúszoftver-fejlesztő",
+          "uk": "розробник хмарного програмного забезпечення/розробниця хмарного програмного забезпечення",
+          "sk": "vývojár cloudového softvéru/vývojárka cloudového softvéru",
+          "sl": "razvijalec programske opreme v oblaku",
+          "ga": "forbróir néal‑bhogearraí",
+          "sv": "molnprogramutvecklare",
+          "el": "προγραμματιστής λογισμικού υπολογιστικού νέφους/προγραμματίστρια λογισμικού υπολογιστικού νέφους",
+          "mt": "żviluppatur ta’ software tal-cloud/żviluppatriċi ta’ software tal-cloud",
+          "en": "cloud software developer",
+          "is": "ský hugbúnaðarsérfræðingur",
+          "it": "sviluppatore di software cloud/sviluppatrice di software cloud",
+          "es": "desarrollador de software en la nube/desarrolladora de software en la nube",
+          "et": "pilvtehnoloogia tarkvara arendaja",
+          "cs": "vývojář cloudového softwaru/vývojářka cloudového softwaru",
+          "ar": "مبرمج البرمجيات السحابية",
+          "pl": "specjalista do spraw rozwoju oprogramowania w chmurze",
+          "da": "udvikler af cloudsoftware",
+          "ro": "dezvoltator de software cloud/dezvoltatoare de software cloud",
+          "nl": "softwareontwikkelaar voor de cloud"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2512.8",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2512"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/781a6350-e686-45b9-b075-e4c8d5a05ff7&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/781a6350-e686-45b9-b075-e4c8d5a05ff7",
+            "title": "cloud software developer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+      "preferredLabel": "software analyst",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+        "searchHit": "Software analysts elicit and prioritise user requirements, produce and document software specifications, test their application, and review them during software development. They act as the interface between the software users and the software development team.",
+        "title": "software analyst",
+        "preferredLabel": {
+          "de": "Softwareanalytiker/Softwareanalytikerin",
+          "no": "programvareanalytiker",
+          "fi": "atk-suunnittelija",
+          "pt": "Analista de software",
+          "bg": "софтуерен анализатор/софтуерна анализаторка",
+          "lt": "programinės įrangos analitikas",
+          "hr": "analitičar/analitičarka softvera",
+          "lv": "programmatūras analītiķis",
+          "fr": "analyste logiciel",
+          "hu": "szoftverelemző",
+          "uk": "аналітик програмного забезпечення/аналітикиня програмного забезпечення",
+          "sk": "softvérový analytik/softvérová analytička",
+          "sl": "programer analitik/programerka analitičarka",
+          "ga": "anailísí bogearraí",
+          "sv": "programvaruanalytiker",
+          "el": "αναλυτής λογισμικού/αναλύτρια λογισμικού",
+          "mt": "analista tas-softwer",
+          "en": "software analyst",
+          "is": "hugbúnaðarsérfræðingur",
+          "it": "analista software",
+          "es": "analista de software",
+          "et": "tarkvaraanalüütik",
+          "cs": "softwarový analytik/softwarová analytička",
+          "ar": "محلل البرمجيات / محللة البرمجيات",
+          "pl": "analityk oprogramowania",
+          "da": "softwareanalytiker",
+          "ro": "analist de software/analistă de software",
+          "nl": "software analist"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2512.2",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2512"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+            "title": "software analyst"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+      "preferredLabel": "data scientist",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+        "searchHit": "data research scientist",
+        "title": "data scientist",
+        "preferredLabel": {
+          "de": "Datenwissenschaftler/Datenwissenschaftlerin",
+          "no": "forsker innen datavitenskap",
+          "fi": "datatutkija",
+          "pt": "Cientista de dados",
+          "bg": "изследовател на данни/изследователка на данни",
+          "lt": "duomenų tyrėjas",
+          "hr": "znanstvenik/znanstvenica za podatke",
+          "lv": "datu zinātnieks",
+          "fr": "scientifique des données",
+          "hu": "adattudós",
+          "uk": "дослідник з обробки й аналізу даних/дослідниця з обробки й аналізу даних",
+          "sk": "dátový špecialista/dátová špecialistka",
+          "sl": "strokovnjak /strokovnjakinja za podatke",
+          "ga": "eolaí sonraí",
+          "sv": "forskare inom datavetenskap",
+          "el": "επιστήμονας δεδομένων",
+          "mt": "xjentist tad-data/xjentista tad-data",
+          "en": "data scientist",
+          "is": "gagnasérfræðingur",
+          "it": "data scientist",
+          "es": "científico de datos/científica de datos",
+          "et": "andmeteadur",
+          "cs": "datový vědec/datová vědkyně",
+          "ar": "عالم البيانات / عالمة البيانات",
+          "pl": "specjalista ds. zarządzania danymi",
+          "da": "datalog",
+          "ro": "expert în analiza informațiilor",
+          "nl": "data scientist"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2511.4",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2511"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+            "title": "data scientist"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+      "preferredLabel": "bioinformatics scientist",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+        "searchHit": "Bioinformatics scientists analyse biological processes using computer programmes. They maintain or construct databases containing biological information. Bioinformatics scientists gather and analyse biological data and may also assist scientists in various fields, including in biotechnology and pharmaceutics. They perform scientific research and statistical analyses, and report on their findings. Bioinformatics scientists may also collect DNA samples, discover data patterns and conduct genetic research.",
+        "title": "bioinformatics scientist",
+        "preferredLabel": {
+          "de": "Bioinformatiker/Bioinformatikerin",
+          "no": "bioinformatiker",
+          "fi": "bioinformaatikko",
+          "pt": "Bioinformático/Bioinformática",
+          "bg": "биоинформатик",
+          "lt": "bioinformatikas",
+          "hr": "znanstvenik/znanstvenica u području bioinformatike",
+          "lv": "bioinformātikas pētnieks",
+          "fr": "bioinformaticien/bioinformaticienne",
+          "hu": "bioinformatikus",
+          "uk": "дослідник-біоінформатик/дослідниця-біоінформатикиня",
+          "sk": "bioinformatik/bioinformatička",
+          "sl": "bioinformatik/bioinformatičarka",
+          "ga": "eolaí bithfhaisnéisíochta",
+          "sv": "forskare i bioinformatik",
+          "el": "βιοπληροφορικός",
+          "mt": "xjentist tal-bijoinformatika/xjentista tal-bijoinformatika",
+          "en": "bioinformatics scientist",
+          "is": "lífupplýsingafræðingur",
+          "it": "bioinformatico/bioinformatica",
+          "es": "bioinformático/bioinformática",
+          "et": "bioinformaatik",
+          "cs": "bioinformatik/bioinformatička",
+          "ar": "عالم في المعلوماتية الحيوية / عالمة في المعلوماتية الحيوية",
+          "pl": "bioinformatyk",
+          "da": "bioinformatiker",
+          "ro": "cercetător în bioinformatică",
+          "nl": "bio-informaticus"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2131.3",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2131"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+            "title": "bioinformatics scientist"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/bc659adc-f42c-4ef6-89fe-fd030033f446",
+      "preferredLabel": "cosmologist",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/bc659adc-f42c-4ef6-89fe-fd030033f446",
+        "searchHit": "cosmology data scientist",
+        "title": "cosmologist",
+        "preferredLabel": {
+          "de": "Kosmologe/Kosmologin",
+          "no": "astrofysiker",
+          "fi": "kosmologi",
+          "pt": "Cosmólogo/Cosmóloga",
+          "bg": "космолог",
+          "lt": "kosmologas",
+          "hr": "kozmolog/kozmologinja",
+          "lv": "kosmologs",
+          "fr": "cosmologiste",
+          "hu": "kozmológus",
+          "uk": "космолог/космологиня",
+          "sk": "kozmológ/kozmologička",
+          "sl": "kozmolog/kozmologinja",
+          "ga": "cosmeolaí",
+          "sv": "kosmolog",
+          "el": "κοσμολόγος",
+          "mt": "kożmologu/kożmologa",
+          "en": "cosmologist",
+          "is": "heimsmyndarfræðingur",
+          "it": "cosmologo/cosmologa",
+          "es": "experto en cosmología/experta en cosmología",
+          "et": "kosmoloog",
+          "cs": "kosmolog/kosmoložka",
+          "ar": "عالم الكونيات / عالمة الكونيات",
+          "pl": "kosmolog",
+          "da": "kosmolog",
+          "ro": "cosmolog/cosmoloagă",
+          "nl": "kosmoloog"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2111.2",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2111"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bc659adc-f42c-4ef6-89fe-fd030033f446&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/bc659adc-f42c-4ef6-89fe-fd030033f446",
+            "title": "cosmologist"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/2079755f-d809-49e6-8037-4de6180e54c0",
+      "preferredLabel": "data engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/2079755f-d809-49e6-8037-4de6180e54c0",
+        "searchHit": "Data engineers develop the architecture needed to process, manage, and store large amounts of data which will be used by data scientists for analysis. They design the infrastructure and maintain data pipelines and warehouses to leverage data for strategic advantage.",
+        "title": "data engineer",
+        "preferredLabel": {
+          "de": "Dateningenieur/Dateningenieurin",
+          "no": "dataingeniør",
+          "fi": "datainsinööri",
+          "pt": "engenheiro de dados/engenheira de dados",
+          "bg": "инженер по данни",
+          "lt": "duomenų inžinierius",
+          "hr": "podatkovni inženjer / podatkovna inženjerka",
+          "lv": "datu inženieris",
+          "fr": "ingénieur en mégadonnées/ingénieure en mégadonnées",
+          "hu": "adatmérnök",
+          "uk": "інженер даних/інженерка даних",
+          "sk": "dátový inžinier/dátová inžinierka",
+          "sl": "podatkovni inženir/inženirka",
+          "ga": "innealtóir sonraí",
+          "sv": "dataingenjör",
+          "el": "μηχανικός δεδομένων",
+          "mt": "inġinier tad-data",
+          "en": "data engineer",
+          "is": "gagnaverkfræðingur",
+          "it": "ingegnere dei dati/ingegnera dei dati",
+          "es": "ingeniero de datos/ingeniera de datos",
+          "et": "andmeinsener",
+          "cs": "datový inženýr/datová inženýrka",
+          "ar": "مهندس البيانات",
+          "pl": "inżynier danych",
+          "da": "dataingeniør",
+          "ro": "inginer de date/ingineră de date",
+          "nl": "data engineer"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2511.20",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2511"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2079755f-d809-49e6-8037-4de6180e54c0&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/2079755f-d809-49e6-8037-4de6180e54c0",
+            "title": "data engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/8606c0fd-c7cb-404d-887f-3a30ef7a81b4",
+      "preferredLabel": "sensory scientist",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/8606c0fd-c7cb-404d-887f-3a30ef7a81b4",
+        "searchHit": "Sensory scientists carry out sensory analysis in order to compose or improve flavours and fragrances for the food, beverage and cosmetics industry. They base their flavour and fragrance development on sensory and consumer research. Sensory scientists carry out research and analyse statistical data to meet customers expectations.",
+        "title": "sensory scientist",
+        "preferredLabel": {
+          "de": "Wissenschaftler Sensorik/Wissenschaftlerin Sensorik",
+          "no": "smakskontrollør",
+          "fi": "erityisasiantuntija, aistinvarainen arviointi",
+          "pt": "Especialista em análise sensorial",
+          "bg": "инженер-технолог, хранително-вкусова и парфюмерийно-козметична промишленост",
+          "lt": "juslių mokslininkas",
+          "hr": "senzorski analitičar / senzorska analitičarka",
+          "lv": "maņu un sajūtu pētnieks",
+          "fr": "analyste sensoriel/analyste sensorielle",
+          "hu": "érzékszervi minősítő",
+          "uk": "науковий співробітник із сенсорних і споживчих досліджень/наукова співробітниця із сенсорних і споживчих досліджень",
+          "sk": "špecialista/špecialistka na senzorické analýzy",
+          "sl": "strokovnjak/strokovnjakinja za senzorične analize",
+          "ga": "eolaí céadfaí",
+          "sv": "kvalitetsbedömare, livsmedel, dryck och kosmetika",
+          "el": "ειδικός οργανοληπτικής ανάλυσης/ειδική οργανοληπτικής ανάλυσης",
+          "mt": "xjentist sensorju/xjentista sensorja",
+          "en": "sensory scientist",
+          "is": "skynjunarvísindamaður",
+          "it": "esperto in analisi sensoriale/esperta in analisi sensoriale",
+          "es": "especialista en análisis sensorial",
+          "et": "maitse- ja lõhnaaistingute uurija",
+          "cs": "vědecký pracovník v oblasti chutí a vůní/vědecká pracovnice v oblasti chutí a vůní",
+          "ar": "عالم الحسية / عالمة الحسية",
+          "pl": "specjalista ds. analiz sensorycznych",
+          "da": "smags- og duftforsker",
+          "ro": "specialist în analiză senzorială/specialistă în analiză senzorială",
+          "nl": "sensorisch analist"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2113.2",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2113"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8606c0fd-c7cb-404d-887f-3a30ef7a81b4&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/8606c0fd-c7cb-404d-887f-3a30ef7a81b4",
+            "title": "sensory scientist"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad",
+      "preferredLabel": "meteorologist",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad",
+        "searchHit": "Meteorologists study climate processes, measure and predict weather patterns and provide consultancy services to a variety of weather information users. They work out models for weather forecasting, develop instruments to collect meteorological data and compile statistics and databases.",
+        "title": "meteorologist",
+        "preferredLabel": {
+          "de": "Meteorologe/Meteorologin",
+          "no": "meteorolog",
+          "fi": "meteorologi",
+          "pt": "Meteorologista",
+          "bg": "метеоролог",
+          "lt": "meteorologas",
+          "hr": "meteorolog/meteorologinja",
+          "lv": "meteorologs",
+          "fr": "météorologiste",
+          "hu": "meteorológus",
+          "uk": "метеоролог/метеорологиня",
+          "sk": "meteorológ/meteorologička",
+          "sl": "meteorolog/meteorologinja",
+          "ga": "meitéareolaí",
+          "sv": "meterolog",
+          "el": "μετεωρολόγος",
+          "mt": "meteorologu/meteorologa",
+          "en": "meteorologist",
+          "is": "veðurfræðingur",
+          "it": "meteorologo/meteorologa",
+          "es": "meteorólogo/meteoróloga",
+          "et": "meteoroloog",
+          "cs": "meteorolog/meteoroložka",
+          "ar": "عالم الأرصاد الجوية / عالمة الأرصاد الجوية",
+          "pl": "meteorolog",
+          "da": "meteorolog",
+          "ro": "meteorolog/meteorologă",
+          "nl": "meteoroloog"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2112.1",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2112"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad",
+            "title": "meteorologist"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+      "preferredLabel": "statistician",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+        "searchHit": "statistic research scientist",
+        "title": "statistician",
+        "preferredLabel": {
+          "de": "Statistiker/Statistikerin",
+          "no": "statistiker",
+          "fi": "tilastotieteilijä",
+          "pt": "Estaticista",
+          "bg": "статистик",
+          "lt": "statistikos specialistas",
+          "hr": "statističar/statističarka",
+          "lv": "statistiķis",
+          "fr": "statisticien/statisticienne",
+          "hu": "statisztikus",
+          "uk": "статистик",
+          "sk": "štatistik/štatistička",
+          "sl": "statistik/statističarka",
+          "ga": "staitisteoir",
+          "sv": "statistiker",
+          "el": "στατιστικολόγος",
+          "mt": "statistiku",
+          "en": "statistician",
+          "is": "tölfræðingur",
+          "it": "statistico/statistica",
+          "es": "estadístico/estadística",
+          "et": "statistik",
+          "cs": "statistik/statistička",
+          "ar": "عالم إحصاء / عالمة إحصاء",
+          "pl": "statystyk",
+          "da": "statistiker",
+          "ro": "statistician/statisticiană",
+          "nl": "statisticus"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2120.6",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2120"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+            "title": "statistician"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/11a6d0f6-e692-4774-aa5f-193b67d31022",
+      "preferredLabel": "kinesiologist",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/11a6d0f6-e692-4774-aa5f-193b67d31022",
+        "searchHit": "exercise research scientist",
+        "title": "kinesiologist",
+        "preferredLabel": {
+          "de": "Kinesiologe/Kinesiologin",
+          "no": "kinesiolog",
+          "fi": "kinesiologi",
+          "pt": "Kinesiologista",
+          "bg": "кинезитерапевт",
+          "lt": "kineziologas",
+          "hr": "kineziolog/kineziologinja",
+          "lv": "kineziologs",
+          "fr": "kinésiologue",
+          "hu": "kineziológus",
+          "uk": "лікар-кінезіолог/лікарка-кінезіологиня",
+          "sk": "kineziológ/kineziologička",
+          "sl": "kineziolog/kineziologinja",
+          "ga": "cinéiseolaí",
+          "sv": "kinesiolog",
+          "el": "κινησιολόγος",
+          "mt": "kineżjoloġista",
+          "en": "kinesiologist",
+          "is": "hreyfifræðingur",
+          "it": "chinesiologo/chinesiologa",
+          "es": "kinesiólogo/kinesióloga",
+          "et": "kinesioloog",
+          "cs": "kineziolog/kinezioložka",
+          "ar": "عالم حركة الجسم / عالمة حركة الجسم",
+          "pl": "kinezjolog",
+          "da": "kinesiolog",
+          "ro": "kinetoterapeut",
+          "nl": "kinesioloog"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2269.2",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2269"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/11a6d0f6-e692-4774-aa5f-193b67d31022&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/11a6d0f6-e692-4774-aa5f-193b67d31022",
+            "title": "kinesiologist"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/439c52ae-23ce-4d1e-bea1-bac135497977",
+      "preferredLabel": "hydrographic surveyor",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/439c52ae-23ce-4d1e-bea1-bac135497977",
+        "searchHit": "hydrographic scientist",
+        "title": "hydrographic surveyor",
+        "preferredLabel": {
+          "de": "Hydrograf/Hydrografin",
+          "no": "hydrograf",
+          "fi": "mittausinsinööri, meriympäristöt",
+          "pt": "Hidrometrista",
+          "bg": "хидрограф",
+          "lt": "hidrografas",
+          "hr": "geodet hidrograf / geodetkinja hidrografkinja",
+          "lv": "hidrogrāfijas inženieris",
+          "fr": "hydrographe",
+          "hu": "vízrajzi földmérő mérnök",
+          "uk": "спеціаліст гідрографічної зйомки/спеціалістка гідрографічної зйомки",
+          "sk": "morský hydrograf/morská hydrografka",
+          "sl": "hidrograf/hidrografinja",
+          "ga": "suirbhéir hidreagrafach",
+          "sv": "hydrograf",
+          "el": "υδρογράφος",
+          "mt": "servejer idrografiku/servejer idrografika",
+          "en": "hydrographic surveyor",
+          "is": "sérfræðingur í sjómælingum",
+          "it": "rilevatore idrografico/rilevatrice idrografica",
+          "es": "supervisor hidrográfico/supervisora hidrográfica",
+          "et": "hüdrograaf",
+          "cs": "odborník na hydrografii/odbornice na hydrografii",
+          "ar": "ماسح هيدروغرافي / ماسحة هيدروغرافية",
+          "pl": "inżynier geodeta - hydrografia",
+          "da": "hydrograf",
+          "ro": "analist hidrograf",
+          "nl": "hydrograaf"
+        },
+        "code": "2165.4.1",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/d8e502b4-1be6-4d10-a224-151688f8f0c8"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/439c52ae-23ce-4d1e-bea1-bac135497977&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/439c52ae-23ce-4d1e-bea1-bac135497977",
+            "title": "hydrographic surveyor"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/57a12047-4f1e-40ed-add5-9736923f231b",
+      "preferredLabel": "astronomer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/57a12047-4f1e-40ed-add5-9736923f231b",
+        "searchHit": "astronomy scientist",
+        "title": "astronomer",
+        "preferredLabel": {
+          "de": "Astronom/Astronomin",
+          "no": "astronom",
+          "fi": "astronomi",
+          "pt": "Astrónomo/Astrónoma",
+          "bg": "астроном",
+          "lt": "astronomas",
+          "hr": "astronom/astronomka",
+          "lv": "astronoms",
+          "fr": "astronome",
+          "hu": "csillagász",
+          "uk": "астроном/астрономка",
+          "sk": "astronóm/astronómka",
+          "sl": "astronom/astronomka",
+          "ga": "réalteolaí",
+          "sv": "astronom",
+          "el": "αστρονόμος-αστροφυσικός",
+          "mt": "astronomu/astronoma",
+          "en": "astronomer",
+          "is": "stjörnufræðingur",
+          "it": "astronomo/astronoma",
+          "es": "astrónomo/astrónoma",
+          "et": "astronoom",
+          "cs": "astronom/astronomka",
+          "ar": "عالم الفلك / عالمة الفلك",
+          "pl": "astronom",
+          "da": "astronom",
+          "ro": "astronom",
+          "nl": "sterrenkundige"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2111.1",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2111"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57a12047-4f1e-40ed-add5-9736923f231b&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/57a12047-4f1e-40ed-add5-9736923f231b",
+            "title": "astronomer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/c44c078d-85e4-40a3-9598-2c333d7a24ca",
+      "preferredLabel": "paper engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/c44c078d-85e4-40a3-9598-2c333d7a24ca",
+        "searchHit": "mechanical engineer",
+        "title": "paper engineer",
+        "preferredLabel": {
+          "de": "Ingenieur Papiertechnik und -produktion/Ingenieurin Papiertechnik und -produktion",
+          "no": "papirproduksjonstekniker",
+          "fi": "paperi-insinööri",
+          "pt": "Engenheiro do papel/Engenheira do papel",
+          "bg": "инженер, технология на целулозното и хартиеното производство",
+          "lt": "popieriaus technologas",
+          "hr": "tehnolog/tehnologinja papirničarstva",
+          "lv": "papīra ražošanas inženieris",
+          "fr": "ingénieur papetier/ingénieure papetière",
+          "hu": "papíripari üzemmérnök",
+          "uk": "інженер паперової промисловості/інженерка паперової промисловості",
+          "sk": "inžinier technológ/inžinierka technologička papierenskej výroby",
+          "sl": "inženir/inženirka za papirništvo",
+          "ga": "innealtóir paipéir",
+          "sv": "ingenjör, pappersindustri",
+          "el": "χημικός μηχανικός με ειδίκευση στην τεχνολογία χάρτου",
+          "mt": "inġinier tal-karta",
+          "en": "paper engineer",
+          "is": "pappírstæknifræðingur",
+          "it": "ingegnere chimico del settore cartario",
+          "es": "ingeniero especializado en fabricación de papel/ingeniera especializada en fabricación de papel",
+          "et": "paberitehnoloog",
+          "cs": "papírenský inženýr/papírenská inženýrka",
+          "ar": "مهندس ورق / مهندسة ورق",
+          "pl": "inżynier papiernik",
+          "da": "papirproduktionstekniker",
+          "ro": "inginer în industria celulozei și hârtiei",
+          "nl": "procesingenieur papierproductie"
+        },
+        "code": "2145.1.8",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/ec21ce88-ce14-49b6-be0a-cc53cf5a3a67"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c44c078d-85e4-40a3-9598-2c333d7a24ca&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/c44c078d-85e4-40a3-9598-2c333d7a24ca",
+            "title": "paper engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+      "preferredLabel": "mechanical engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+        "searchHit": "mechanical engineering specialist",
+        "title": "mechanical engineer",
+        "preferredLabel": {
+          "de": "Maschinenbauingenieur/Maschinenbauingenieurin",
+          "no": "maskiningeniør",
+          "fi": "koneinsinööri",
+          "pt": "Engenheiro mecânico/Engenheira mecânica",
+          "bg": "машинен инженер",
+          "lt": "mechanikos inžinierius",
+          "hr": "inženjer/inženjerka strojarstva",
+          "lv": "mehānikas inženieris",
+          "fr": "ingénieur mécanicien/ingénieure mécanicienne",
+          "hu": "gépészmérnök",
+          "uk": "інженер-механік/інженерка-механік",
+          "sk": "strojný inžinier/strojná inžinierka",
+          "sl": "inženir/inženirka strojništva",
+          "ga": "innealtóir meicniúil",
+          "sv": "civilingenjör, maskin",
+          "el": "μηχανολόγος μηχανικός",
+          "mt": "inġinier mekkaniku",
+          "en": "mechanical engineer",
+          "is": "vélaverkfræðingur",
+          "it": "ingegnere meccanico",
+          "es": "ingeniero mecánico/ingeniera mecánica",
+          "et": "mehaanikainsener",
+          "cs": "strojní inženýr/strojní inženýrka",
+          "ar": "مهندس ميكانيكي / مهندسة ميكانيكية",
+          "pl": "inżynier mechanik",
+          "da": "maskiningeniør",
+          "ro": "inginer mecanic",
+          "nl": "werktuigbouwkundig ingenieur"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2144.1",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2144"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+            "title": "mechanical engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff",
+      "preferredLabel": "maintenance and repair engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff",
+        "searchHit": "mechanical engineer",
+        "title": "maintenance and repair engineer",
+        "preferredLabel": {
+          "de": "Wartungsingenieur/Wartungsingenieurin",
+          "no": "vedlikeholdsingeniør",
+          "fi": "kunnossapito- ja korjausinsinööri",
+          "pt": "Engenheiro de manutenção e reparação/Engenheira de manutenção e reparação",
+          "bg": "инженер поддръжка и ремонт",
+          "lt": "techninės priežiūros ir remonto inžinierius",
+          "hr": "inženjer/inženjerka održavanja",
+          "lv": "ekspluatācijas un remonta inženieris",
+          "fr": "ingénieur maintenance/ingénieure maintenance",
+          "hu": "karbantartási mérnök",
+          "uk": "інженер із технічного обслуговування й ремонту/інженерка із технічного обслуговування й ремонту",
+          "sk": "špecialista/špecialistka na údržbu a opravy",
+          "sl": "inženir/inženirka za vzdrževanje in popravila",
+          "ga": "innealtóir cothabhála agus deisiúcháin",
+          "sv": "underhålls- och reparationsingenjör",
+          "el": "μηχανικός επίβλεψης λειτουργίας και συντήρησης",
+          "mt": "inġinier tal-manutenzjoni u tat-tiswija",
+          "en": "maintenance and repair engineer",
+          "is": "viðgerðarmaður iðnaðartækja",
+          "it": "ingegnere di manutenzione",
+          "es": "técnico de mantenimiento y reparación/técnica de mantenimiento y reparación",
+          "et": "remondi- ja hooldusinsener",
+          "cs": "inženýr údržby a oprav/inženýrka údržby a oprav",
+          "ar": "مهندس إصلاح وصيانة / مهندسة إصلاح وصيانة",
+          "pl": "inżynier ds. serwisu technicznego",
+          "da": "vedligeholdelsesingeniør",
+          "ro": "inginer mentenanță și reparații/ingineră mentenanță și reparații",
+          "nl": "onderhoudsingenieur"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "2141.8",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C2141"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff",
+            "title": "maintenance and repair engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/fcbb66f5-843b-4152-9ce4-e7b19c2a88d9",
+      "preferredLabel": "mine mechanical engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/fcbb66f5-843b-4152-9ce4-e7b19c2a88d9",
+        "searchHit": "mechanical engineer (mining)",
+        "title": "mine mechanical engineer",
+        "preferredLabel": {
+          "de": "Maschinenbauingenieur Bergbau/Maschinenbauingenieurin Bergbau",
+          "no": "mekanisk ingeniør, gruvedrift",
+          "fi": "koneinsinööri, kaivosteollisuus",
+          "pt": "Engenheiro mecânico de minas/Engenheira mecânica de minas",
+          "bg": "инженер, минни машини",
+          "lt": "kasybos inžinierius mechanikas",
+          "hr": "inženjer/inženjerka za rudarsku mehanizaciju",
+          "lv": "ieguves rūpniecības mehānikas inženieris",
+          "fr": "ingénieur mécanicien des mines/ingénieure mécanicienne des mines",
+          "hu": "bányagépészmérnök",
+          "uk": "гірничий інженер-механік/гірнича інженерка-механік",
+          "sk": "banský strojný inžinier/banská strojná inžinierka",
+          "sl": "inženir/inženirka rudniškega strojništva",
+          "ga": "innealtóir meicniúil mianaigh",
+          "sv": "serviceingenjör, gruva",
+          "el": "μηχανολόγος μηχανικός τεχνολογίας εξόρυξης",
+          "mt": "inġinier mekkaniku tal-minjieri",
+          "en": "mine mechanical engineer",
+          "is": "námutæknifræðingur",
+          "it": "ingegnere meccanico minerario",
+          "es": "ingeniero mecánico de minas/ingeniera mecánica de minas",
+          "et": "kaevanduse mehaanikainsener",
+          "cs": "důlní strojní inženýr/důlní strojní inženýrka",
+          "ar": "مهندس تعدين ميكانيكي / مهندسة تعدين ميكانيكية",
+          "pl": "inżynier mechanik górnictwa",
+          "da": "maskintekniker inden for minedrift",
+          "ro": "inginer mecanic minier",
+          "nl": "werktuigbouwkundig mijningenieur"
+        },
+        "code": "2144.1.12",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fcbb66f5-843b-4152-9ce4-e7b19c2a88d9&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/fcbb66f5-843b-4152-9ce4-e7b19c2a88d9",
+            "title": "mine mechanical engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/7ef064b1-aab8-4818-a468-8f17acbfd995",
+      "preferredLabel": "hydropower technician",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/7ef064b1-aab8-4818-a468-8f17acbfd995",
+        "searchHit": "hydroelectric mechanical engineer",
+        "title": "hydropower technician",
+        "preferredLabel": {
+          "de": "Wasserkraftwerkstechniker/Wasserkraftwerkstechnikerin",
+          "no": "vannkrafttekniker",
+          "fi": "asiantuntija, vesivoima",
+          "pt": "Técnico de sistemas hidroelétricos/Técnica de sistemas hidroelétricos",
+          "bg": "техник, водни електроцентрали",
+          "lt": "hidroenergijos technikas",
+          "hr": "elektrotehničar/elektrotehničarka hidroelektrane",
+          "lv": "hidroenerģijas tehniķis",
+          "fr": "technicien en hydroélectricité/technicienne en hydroélectricité",
+          "hu": "vízerőművi technikus",
+          "uk": "технік з експлуатації гідроенергетичних установок",
+          "sk": "technik/technička prevádzky vodných elektrární",
+          "sl": "tehnik/tehnica v hidroelektrarni",
+          "ga": "teicneoir hidreachumhachta",
+          "sv": "vattenkraftstekniker",
+          "el": "τεχνικός υδροηλεκτρικών σταθμών",
+          "mt": "tekniku tal-enerġija idroelettrika",
+          "en": "hydropower technician",
+          "is": "vatnsorkusérfræðingur",
+          "it": "tecnico idroelettrico",
+          "es": "técnico en energía hidráulica/técnica en energía hidráulica",
+          "et": "hüdroelektrijaama tehnik",
+          "cs": "technik vodních elektráren/technička vodních elektráren",
+          "ar": "فني الطاقة الكهرومائية",
+          "pl": "technik urządzeń i systemów energetyki wodnej",
+          "da": "vandkrafttekniker",
+          "ro": "tehnician în hidrocentrale",
+          "nl": "technicus waterkracht"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "3113.2",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C3113"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7ef064b1-aab8-4818-a468-8f17acbfd995&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/7ef064b1-aab8-4818-a468-8f17acbfd995",
+            "title": "hydropower technician"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+      "preferredLabel": "electromechanical engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+        "searchHit": "electro mechanic engineer",
+        "title": "electromechanical engineer",
+        "preferredLabel": {
+          "de": "Ingenieur Elektromechanik/Ingenieurin Elektromechanik",
+          "no": "ingeniør, elektromekanikk",
+          "fi": "insinööri, sähkömekaaninen tekniikka",
+          "pt": "Engenheiro eletromecânico/Engenheira eletromecânica",
+          "bg": "инженер, електромеханично оборудване",
+          "lt": "elektromechanikos inžinierius",
+          "hr": "inženjer/inženjerka elektrostrojarstva",
+          "lv": "elektromehānisko iekārtu inženieris",
+          "fr": "ingénieur électromécanicien/ingénieure électromécanicienne",
+          "hu": "elektromechanikai mérnök",
+          "uk": "інженер-електромеханік/інженерка-електромеханік",
+          "sk": "elektromechanický inžinier/elektromechanická inžinierka",
+          "sl": "inženir/inženirka elektromehanike",
+          "ga": "innealtóir leictrimheicniúil",
+          "sv": "ingenjör, elektromekanik",
+          "el": "ηλεκτρομηχανολόγος μηχανικός",
+          "mt": "inġinier elettromekkaniku",
+          "en": "electromechanical engineer",
+          "is": "rafvélaverkfræðingur",
+          "it": "ingegnere elettromeccanico",
+          "es": "ingeniero electromecánico/ingeniera electromecánica",
+          "et": "elektromehaanikainsener",
+          "cs": "inženýr elektromechaniky/inženýrka elektromechaniky",
+          "ar": "مهندس كهروميكانيكي / مهندسة كهروميكانيكية",
+          "pl": "inżynier elektromechanik",
+          "da": "elektromekanikingeniør",
+          "ro": "inginer electromecanic",
+          "nl": "ingenieur elektromechanica"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2151.1.3",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+            "title": "electromechanical engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/d1974e0c-8f92-473b-a32d-f0616c08b1ff",
+      "preferredLabel": "precision mechanic",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/d1974e0c-8f92-473b-a32d-f0616c08b1ff",
+        "searchHit": "precision mechanical engineer",
+        "title": "precision mechanic",
+        "preferredLabel": {
+          "de": "Feinwerkmechaniker Fachrichtung Werkzeugbau/Feinwerkmechanikerin Fachrichtung Werkzeugbau",
+          "no": "finmekaniker",
+          "fi": "hienomekaanikko",
+          "pt": "Técnico em mecânica de precisão/Técnica em mecânica de precisão",
+          "bg": "специалист, фина механика",
+          "lt": "tiksliųjų prietaisų mechanikas",
+          "hr": "finomehaničar/finomehaničarka",
+          "lv": "instrumentu atslēdznieks",
+          "fr": "mécanicien de précision/mécanicienne de précision",
+          "hu": "precíziós fémipari eszközgyártó",
+          "uk": "механік з виробництва прецизійних приладів",
+          "sk": "mechanik/mechanička v presnej strojárskej výrobe",
+          "sl": "finomehanik/finomehaničarka",
+          "ga": "beachtmheicneoir",
+          "sv": "prototyptillverkare, metall",
+          "el": "μηχανικός εξαρτημάτων ακριβείας",
+          "mt": "tekniku mekkaniku tal-preċiżjoni",
+          "en": "precision mechanic",
+          "is": "nákvæmnisvélvirki",
+          "it": "meccanico di precisione",
+          "es": "mecánico de precisión/mecánica de precisión",
+          "et": "täppismehaanik",
+          "cs": "jemný mechanik/jemná mechanička",
+          "ar": "ميكانيكي الأعمال الدقيقة / ميكانيكية الأعمال الدقيقة",
+          "pl": "mechanik precyzyjny",
+          "da": "finmekaniker",
+          "ro": "mecanic de precizie",
+          "nl": "fijnmechanicus"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "7222.4",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C7222"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d1974e0c-8f92-473b-a32d-f0616c08b1ff&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/d1974e0c-8f92-473b-a32d-f0616c08b1ff",
+            "title": "precision mechanic"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/6188bf20-5cdb-4702-af72-2cb67ec39810",
+      "preferredLabel": "theme park technician",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/6188bf20-5cdb-4702-af72-2cb67ec39810",
+        "searchHit": "ride mechanical engineer",
+        "title": "theme park technician",
+        "preferredLabel": {
+          "de": "Wartungs- und Servicetechniker für Fahrgeschäfte/Wartungs- und Servicetechnikerin für Fahrgeschäfte",
+          "no": "vedlikeholdstekniker, fornøyelsespark",
+          "fi": "laiteasentaja, huvipuistolaitteet",
+          "pt": "Técnico de carrosséis/Técnica de carrosséis",
+          "bg": "техник, съоръжения за увеселителни паркове",
+          "lt": "atrakcionų technikas",
+          "hr": "tehničar/tehničarka u zabavnim i tematskim parkovima",
+          "lv": "karuseļu mehāniķis",
+          "fr": "technicien d’équipements de parcs d’attractions/technicienne d’équipements de parcs d’attractions",
+          "hu": "vidámparki karbantartó",
+          "uk": "технік тематичного парку розваг",
+          "sk": "mechanik/mechanička opravárka zábavných atrakcií",
+          "sl": "vzdrževalec/vzdrževalka zabaviščnih naprav",
+          "ga": "teicneoir marcaíochtaí",
+          "sv": "attraktionstekniker",
+          "el": "τεχνικός παιχνιδιών πάρκων αναψυχής",
+          "mt": "tekniku tar-rikbiet",
+          "en": "theme park technician",
+          "is": "tæknimenn tækja í skemmtigarði",
+          "it": "tecnico delle attrazioni",
+          "es": "técnico de atracciones de feria/técnica de atracciones de feria",
+          "et": "lõbustuspargiatraktsioonide mehaanik",
+          "cs": "údržbář zařízení zábavních parků/údržbářka zařízení zábavních parků",
+          "ar": "فني ألعاب المتنزه",
+          "pl": "technik konserwator urządzeń parku rozrywki",
+          "da": "vedligholdelsestekniker — forlystelsespark",
+          "ro": "lucrător calificat reparații întreținere echipamente parc de distracții",
+          "nl": "onderhoudsmonteur pretpark"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "7412.12",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C7412"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6188bf20-5cdb-4702-af72-2cb67ec39810&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/6188bf20-5cdb-4702-af72-2cb67ec39810",
+            "title": "theme park technician"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+      "preferredLabel": "optomechanical engineer",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+        "searchHit": "opto-mechanical engineer",
+        "title": "optomechanical engineer",
+        "preferredLabel": {
+          "de": "Ingenieur Optomechanik/Ingenieurin Optomechanik",
+          "no": "ingeniør, optomekanikk",
+          "fi": "optomekaniikan insinööri",
+          "pt": "Engenheiro mecânico especialista em optomecânica/Engenheira mecânica especialista em optomecânica",
+          "bg": "инженер, оптомеханика",
+          "lt": "optomechanikos inžinierius",
+          "hr": "inženjer/inženjerka za optomehaniku",
+          "lv": "optomehānisko iekārtu inženieris",
+          "fr": "ingénieur optomécanique/ingénieure optomécanique",
+          "hu": "optomechanikai mérnök",
+          "uk": "інженер-оптомеханік/інженерка-оптомеханік",
+          "sk": "optomechanik špecialista/optomechanička špecialistka",
+          "sl": "inženir/inženirka optomehanike",
+          "ga": "innealtóir optaimeicniúil",
+          "sv": "optomekanikingenjör",
+          "el": "μηχανολόγος μηχανικός με ειδίκευση στην οπτομηχανική",
+          "mt": "inġinier ottomekkaniku",
+          "en": "optomechanical engineer",
+          "is": "sjóntækjaverkfræðingur",
+          "it": "ingegnere optomeccanico",
+          "es": "ingeniero en optomecánica/ingeniera en optomecánica",
+          "et": "optomehaanika insener",
+          "cs": "inženýr optomechaniky/inženýrka optomechaniky",
+          "ar": "مهندس بصرية ميكانيكية / مهندسة بصرية ميكانيكية",
+          "pl": "inżynier optomechaniki",
+          "da": "optomekanisk ingeniør",
+          "ro": "inginer optomecanică",
+          "nl": "ingenieur optomechanica"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "code": "2144.1.15",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations",
+          "http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613"
+        ],
+        "broaderOccupation": [
+          "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+            "title": "optomechanical engineer"
+          }
+        }
+      }
+    },
+    {
+      "conceptUri": "http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd",
+      "preferredLabel": "product development engineering technician",
+      "altLabels": "",
+      "skillType": "ESCO occupation",
+      "source_payload": {
+        "className": "Occupation",
+        "classId": "http://data.europa.eu/esco/model#Occupation",
+        "uri": "http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd",
+        "searchHit": "product development mechanical engineer",
+        "title": "product development engineering technician",
+        "preferredLabel": {
+          "de": "Produktentwicklungstechniker/Produktentwicklungstechnikerin",
+          "no": "tekniker innen produktutvikling",
+          "fi": "tuotekehityksen asiantuntija",
+          "pt": "Técnico de desenvolvimento de produtos/Técnica de desenvolvimento de produtos",
+          "bg": "технолог, разработване на продукти",
+          "lt": "gaminių projektavimo inžinerijos technikas",
+          "hr": "tehničar/tehničarka za razvoj proizvoda",
+          "lv": "ražojumu izstrādes tehniķis",
+          "fr": "technicien en ingénierie de mise au point de produits/technicienne en ingénierie de mise au point de produits",
+          "hu": "fejlesztési technikus",
+          "uk": "технолог із розробки продукції/технологиня із розробки продукції",
+          "sk": "vývojár/vývojárka výrobkov",
+          "sl": "tehnik/tehnica za razvoj izdelkov",
+          "ga": "teicneoir san innealtóireacht forbartha táirgí",
+          "sv": "produktutvecklingstekniker",
+          "el": "τεχνικός διεργασιών ανάπτυξης προϊόντων",
+          "mt": "tekniku tal-inġinerija tal-iżvilupp tal-prodotti",
+          "en": "product development engineering technician",
+          "is": "sérfræðingur í vöruþróun",
+          "it": "tecnico dello sviluppo del prodotto",
+          "es": "ingeniero técnico en diseño y desarrollo de productos/ingeniera técnica en diseño y desarrollo de productos",
+          "et": "tootearendustehnik",
+          "cs": "vývojový technik/vývojová technička",
+          "ar": "فني هندسة تطوير المنتجات",
+          "pl": "technik rozwoju produktu",
+          "da": "produktudviklingstekniker",
+          "ro": "tehnician în ingineria dezvoltării produselor",
+          "nl": "technicus productontwikkeling"
+        },
+        "isTopConceptInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations"
+        ],
+        "code": "3119.15",
+        "isInScheme": [
+          "http://data.europa.eu/esco/concept-scheme/member-occupations",
+          "http://data.europa.eu/esco/concept-scheme/occupations"
+        ],
+        "broaderIscoGroup": [
+          "http://data.europa.eu/esco/isco/C3119"
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd&language=en",
+            "uri": "http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd",
+            "title": "product development engineering technician"
+          }
+        }
+      }
+    }
+  ]
+}

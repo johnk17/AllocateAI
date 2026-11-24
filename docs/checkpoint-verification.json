@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "database": "separate PostgreSQL verification database",
+  "mode": "fixture; isolated test records, not real allocation evaluation",
+  "same_thread_after_restart": true,
+  "evidence_pause_resumed": true,
+  "draft_approval_resumed_after_second_restart": true,
+  "unverified_allocation_blocked": true,
+  "unauthorized_approval_blocked": true,
+  "publication_before_approval_blocked": true,
+  "publication_idempotent": true,
+  "solver_status": "OPTIMAL"
+}

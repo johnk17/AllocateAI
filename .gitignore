@@ -1,0 +1,54 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+postgres_data/
+
+# Frontend
+node_modules/
+frontend/dist/
+.next/
+*.tsbuildinfo
+out/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# AI models and cache
+.cache/
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Testing and temporary files
+test-results/
+tmp/
+.tools/
+*.log
+
+# Private data
+private/
+uploads/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# AllocateAI temporary testing files
+.allocate-ui-check/
+.allocate-ui-test-output/
+.pytest_tmp/
